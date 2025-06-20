@@ -1,7 +1,3 @@
-Here's the English translation of your streaming site project documentation:
-
----
-
 # Streaming Site Project (BTS SIO - 1st Year)
 
 ## Description
